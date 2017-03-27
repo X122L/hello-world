@@ -1,2 +1,2 @@
-# hello-world
-First walking step in GitHub
+Sa i'n hoffi coffi.
+Second walking step in GitHub
